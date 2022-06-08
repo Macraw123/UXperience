@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cheat2</string>
+    <string name="hyperlink_to_register">
+       No account yet? Create one <u>here</u>.
+    </string>
+
+</resources>
